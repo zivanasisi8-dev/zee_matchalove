@@ -1,6 +1,5 @@
 # zee_matchalove
 
-```html
 <div align="center">
 
 <!-- pastel pink header -->
