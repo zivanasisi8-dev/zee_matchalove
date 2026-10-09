@@ -21,11 +21,15 @@
 <!-- 01: ABOUT ME -->
 ### 01 / a little about me
 
-```text
-  ㅤ∧＿∧
- （｡･ω･｡)つ━☆・*。
- ⊂　　 ノ
-  しーＪ
+```hayiie! ulala ~
+  ∧＿∧　
+（｡･ω･｡)つ━☆・*。 
+⊂　　 ノ 　　　・゜ 
+  しーＪ　　　°。+ * 。 
+　　　　　　　　　.・゜ 
+　　　　　　　　　゜｡ﾟﾟ･｡･ﾟﾟ。 
+　　　　　　                       
+　　　　　　    　　　　ﾟ･｡･ﾟㅤㅤ
 ````
 
 hii, i'm **Zivana Oktaviani** — a student just beginning my journey into the world of software and game development.
