@@ -19,7 +19,7 @@
 ---
 
 <!-- 01: ABOUT ME -->
-### 01 / a little about me
+### 01 / A Little About Me
 
 ```hayiie! ulala ~
   ∧＿∧　
@@ -32,24 +32,24 @@
 　　　　　　    　　　　ﾟ･｡･ﾟㅤㅤ
 ````
 
-hii, i'm **Zivana Oktaviani** — a student just beginning my journey into the world of software and game development.
+Hii, I'm **Zivana Oktaviani** — A student just beginning my journey into the world of software and game development.
 
-i'm still learning, still exploring, and slowly discovering what i can create with code. outside of programming, i find happiness in little things that make life feel special.
+I'm still learning, still exploring, and slowly discovering what I can create with code. outside of programming, I find happiness in little things that make life feel special.
 
-* studying software & game development (RPL)
-* learning programming one step at a time
-* admiring the sky and the beauty of ordinary things
-* getting lost in books, literature, and meaningful words
-* collecting songs and discovering new things
-* growing at my own pace, without rushing the journey
+* Studying software & game development (RPL)
+* Learning programming one step at a time
+* Admiring the sky and the beauty of ordinary things
+* Getting lost in books, literature, and meaningful words
+* Collecting songs and discovering new things
+* Growing at my own pace, without rushing the journey
 
-> currently in my "let me try it myself first" era.
+> Currently in my "let me try it myself first" era.
 
 ---
 
 <!-- 02: INTERESTS -->
 
-### 02 / things i like
+### 02 / Things I like
 
 <div align="center">
 
@@ -65,7 +65,7 @@ i'm still learning, still exploring, and slowly discovering what i can create wi
 
 <!-- 03: CURRENTLY LEARNING -->
 
-### 03 / currently learning
+### 03 / Currently Learning
 
 <div align="center">
 
@@ -73,7 +73,7 @@ i'm still learning, still exploring, and slowly discovering what i can create wi
 
 <br/><br/>
 
-<sub>still learning, still making mistakes, still figuring it out.</sub>
+<sub>Still learning, still making mistakes, still figuring it out.</sub>
 
 </div>
 
@@ -81,13 +81,13 @@ i'm still learning, still exploring, and slowly discovering what i can create wi
 
 <!-- 04: MUSIC -->
 
-### 04 / songs i've been keeping
+### 04 / Songs I've Been Keeping
 
 <div align="center">
 
-**a little soundtrack to my life**
+**A little soundtrack to my life**
 
-my music taste changes with the weather, the mood, and the time of day.
+My music taste changes with the weather, the mood, and the time of day.
 
 <!-- LINK: membuka playlist Spotify -->
 
@@ -109,7 +109,7 @@ my music taste changes with the weather, the mood, and the time of day.
 
 <!-- 05: SOCIAL LINKS -->
 
-### 05 / find me here
+### 05 / Find Me Here!
 
 <div align="center">
 
@@ -139,9 +139,9 @@ my music taste changes with the weather, the mood, and the time of day.
 
 <div align="center">
 
-*made of little dreams and unfinished projects.*
+*Made of little dreams and unfinished projects.*
 
-thanks for stopping by.
+Thanks for stopping by zee
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F8BBD0,100:E3F2FD&height=70&section=footer" width="100%" alt="Pastel footer" />
 
