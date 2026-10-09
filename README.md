@@ -69,7 +69,7 @@ I'm still learning, still exploring, and slowly discovering what I can create wi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,php,cs,mysql,git,github,vscode&theme=light" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=html,python,css,php,cs,mysql,github,vscode&theme=light" alt="Technologies and tools" />
 
 <br/><br/>
 
